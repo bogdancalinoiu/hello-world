@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
 	<br>
 
-    <label for="email"><b>Enter email</b></label>
+    <label for="Enter email"><b>Enter email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 	<br>
 
